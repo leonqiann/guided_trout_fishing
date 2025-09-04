@@ -32,3 +32,30 @@ body {
     font-size: 24px;
     font-family: 'Inter';
 }
+div {
+    margin: 67px 100px 50px 300px;
+    display: inline-block;
+}
+div2 p {
+    width: 550px;
+    display: inline-block;
+    align-items: right;
+}
+div3 p {
+    width: 1200px;
+    margin-left: 300px;
+}
+footer {
+    background-color: #46788C;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    align-items: center;
+    
+
+    
+}
+footer p {
+    width: 460px;
+    margin-left: 700px;
+}
