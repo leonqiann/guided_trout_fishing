@@ -19,12 +19,12 @@ header {
 nav {
     background-color: #46788C;
     padding: 20px;
-    
+    text-align: center;
 }
 nav a {
     text-decoration: none;
     color: black;
-    margin-right: 50px;
+    margin-right: 80px;
 
 }
 body {
