@@ -63,7 +63,7 @@ div4 p {
     margin-top: 75px;
 }
 div5 img {
-    float: right;
+    margin-left: 100px;
     display: inline-block;
     margin-right: 250px;
     width: 35%;
@@ -76,8 +76,8 @@ div6 p {
     margin-top: 40px;
 }
 div7 img {
-    float: right;
+    margin-left: 50px;
     display: inline-block;
-    margin-right: 300px;
+    margin-right: 200px;
     margin-top: 40px;
 }
