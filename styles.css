@@ -69,3 +69,15 @@ div5 img {
     width: 35%;
     margin-top: 75px;
 }
+div6 p {
+    width: 800px;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+div7 img {
+    float: right;
+    display: inline-block;
+    margin-right: 300px;
+    margin-top: 40px;
+}
