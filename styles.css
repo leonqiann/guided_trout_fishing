@@ -51,11 +51,21 @@ footer {
     bottom: 0;
     width: 100%;
     align-items: center;
-    
-
-    
 }
 footer p {
     width: 460px;
     margin-left: 700px;
+}
+div4 p {
+    width: 600px;
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 75px;
+}
+div5 img {
+    float: right;
+    display: inline-block;
+    margin-right: 250px;
+    width: 35%;
+    margin-top: 75px;
 }
