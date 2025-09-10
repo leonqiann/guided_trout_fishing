@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Inter);
 @import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
 
+html {
+    overflow-y: hidden;
+}
 header img{
     margin-left: 500px;
 }
@@ -94,9 +97,18 @@ photos img{
     margin-bottom: 12px;
 }
 
-
 div9 {
     float: right;
     margin-top: -500px;
     margin-right: 750px;
+}
+text {
+    margin-right: -750px;
+    position: relative;
+    left: 250px;
+    bottom: 510px;
+}
+
+text p {
+    margin-bottom: 60px;
 }
